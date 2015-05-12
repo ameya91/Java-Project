@@ -1,0 +1,4 @@
+This is an example of Abstaction concept in Java
+Use of 'classname' extends 'classname'
+class animal is the base class.
+Class dog & class cat use class animal to use method 'void move' by using extends functionality. 
